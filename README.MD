@@ -65,8 +65,6 @@ Enjoy your journey through the gaming world with Paz App!
 # Support
 # If you encounter any issues, have questions, or want to provide feedback, please don't hesitate to reach out to our support team at paz71429@gmail.com.
 
-Screenshots : ![Screenshot](https://i.ibb.co/3WFTCX8/your-image-name.png)
-
 
 # Stay connected, game on, and enjoy your journey through the gaming world with Paz App!
 
