@@ -14,10 +14,10 @@ Welcome to Paz App, your ultimate destination for connecting with fellow gamers 
 
 
 
-**npm install**
-**Xcode install**
-**Start the Expo Development Server**
-**npm start**
+### npm install
+### Xcode install
+### Start the Expo Development Server
+### npm start
 
 Paz App: Gaming Social Solutions
 
