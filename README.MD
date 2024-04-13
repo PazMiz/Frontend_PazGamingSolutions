@@ -70,5 +70,4 @@ Enjoy your journey through the gaming world with Paz App!
 
 # Frontend_PazGamingSolutions
 
-![Screenshot](https://i.postimg.cc/5t4359xN/Screenshot-2024-04-13-at-20-18-26.png)
-https://postimg.cc/SnPCkh2w
+![Screenshot](Screenshot%202024-04-13%20at%2020.18.26.png)
