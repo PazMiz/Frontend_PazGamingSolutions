@@ -57,17 +57,7 @@ Before accessing the full features of Paz App, users must go through an onboardi
 
 Enjoy your journey through the gaming world with Paz App!
 
-# Using React Native Expo as the Frontend
-
-# Navigate to the frontend Directory: In a new terminal window, navigate to the frontend directory of the Paz App repository.
-
-# npm install
-
-# Xcode install
-
-# Start the Expo Development Server:
-
-npm start
+##Using React Native Expo as the Frontend
 
 
 # Explore and Enjoy: Use the Paz App to connect with gamers, share your gaming experiences, and engage in discussions. Enjoy your gaming journey with Paz App!
