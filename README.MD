@@ -70,4 +70,5 @@ Enjoy your journey through the gaming world with Paz App!
 
 # Frontend_PazGamingSolutions
 
+#Example of a User Attempting to Enter the Xbox Section Before Agreeing to the Terms of Use
 ![Screenshot](Screenshot%202024-04-13%20at%2020.18.26.png)
